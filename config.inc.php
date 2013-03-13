@@ -46,7 +46,7 @@ $THINKUP_CFG['table_prefix']              = 'tu_';
 /************************************************/
 /***  DEVELOPER CONFIG                        ***/
 /************************************************/
-
+ 
 // Full server path to crawler.log.
 // $THINKUP_CFG['log_location']              = $THINKUP_CFG['datadir_path'] . 'logs/crawler.log';
 $THINKUP_CFG['log_location']              = false;
